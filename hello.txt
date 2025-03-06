@@ -1,0 +1,4 @@
+hello
+look bro i'm a string
+string i said wright ?
+? 
